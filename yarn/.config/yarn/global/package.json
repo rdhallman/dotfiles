@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "neovim": "^4.10.1",
+    "pm2": "^5.2.0",
+    "standard-version": "^9.3.2",
+    "tree-sitter-cli": "^0.20.6"
+  }
+}
