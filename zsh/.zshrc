@@ -120,8 +120,5 @@ export VULTR_API_KEY="J4H6RQX2BQCIZNGJCJ23T6YMDZ7U6O4NIOCQ"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-
-export TF_VAR_devops_automation_token=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
-
 # enable VI Mode
 bindkey -v
